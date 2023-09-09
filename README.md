@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chau.
 - 👀 This repo is where I store all information about source code as well as documents about projects during my time working at BrycenVN company.
 
-### Prj 1: Object Counting
+* Object Counting
 
 - Training :
 - Inference : 
