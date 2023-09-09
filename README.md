@@ -7,7 +7,7 @@
 - Sourcecode : [Training](https://github.com/Brycenvn/ObjectCountingTraining)
 - Sourcecode : [Inference](https://github.com/Brycenvn/ObjectCountingInference)
 
-#### Project 2: Neural Radian Field
+#### Project 2: Neural Radiance Fields (Nerf)
 
 - All sourcecode has been transferred to BrycenJP's team.
 
