@@ -4,12 +4,15 @@
 
 #### Project 1: Object Counting
 
-- Sourcecode : [Training]()
-- Sourcecode : [Inference](https://github.com/Brycenvn/ObjectCounting)
+- Sourcecode : [Training](https://github.com/Brycenvn/ObjectCountingTraining)
+- Sourcecode : [Inference](https://github.com/Brycenvn/ObjectCountingInference)
 
 #### Project 2: Neural Radian Field
 
+- All sourcecode has been transferred to BrycenJP's team.
+
 #### Project 3: BrycenChatGPT
+
 - Sourcecode : [BrycenChatGPT](https://github.com/Brycenvn/BrycenChatGPT)
 
 **If you have any questions do not hesitate to contact me.**
