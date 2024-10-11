@@ -1,6 +1,6 @@
 #### Introduction
-- 👋 Hi, I’m Chau.
-- 👀 This repo is where I store all information about source code as well as documents about projects during my time working at BrycenVN company.
+- 👋 Hi, This is the repo of BrycenVN.
+- 👀 This repo is used to store all information about source code as well as documents related to ML/MLOps projects.
 
 #### Project 1: Object Counting
 
@@ -14,6 +14,8 @@
 #### Project 3: BrycenChatGPT
 
 - Sourcecode : [BrycenChatGPT](https://github.com/Brycenvn/BrycenChatGPT)
+
+#### Project 4: MLOps with DVC
 
 **If you have any questions do not hesitate to contact me.**
 <!---
