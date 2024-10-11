@@ -1,6 +1,6 @@
 #### Introduction
-- 👋 Hi, This is the repo of BrycenVN.
-- 👀 This repo is used to store all information about source code as well as documents related to ML/MLOps projects.
+- 👋 Hi, We are the AI team of BrycenVN.
+- 👀 This repo is used to store all information about source code and documents of ML/MLOps projects.
 
 #### Project 1: Object Counting
 
